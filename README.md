@@ -80,14 +80,14 @@ Making your first submission is actually much easier.
 The repository should contain:
   * Dockerfile that installs dependencies, copies any files and setups anything you require (see [a sample Dockerfile](Dockerfile))
   * crowdai.json file which may contain any arbitrary fields that you like (e.g. description of the submission) but **must** contain the following three field:
-    * challenge_id - "vizdoom2018"
-    * track_id - "singleplayer" or "multiplayer" 
+    * challenge_id - "vizdoom2018_multi_player"
+    * grader_id - "vizdoom2018_multi_player"
     * author - name of the author (string), for teams, pleas **also** create a field 'authors' containing a list with all authors
 Sample crowdai.json:
 ```javascript
 {
   "challenge_id": "vizdoom2018_multi_player",
-  "track_id": "vizdoom2018_multi_player",
+  "grader_id": "vizdoom2018_multi_player",
   "author": "Johnny the Leader",
   "authors": ["Johnny the Leader", "Steve the Devops", "Goeff the AI guy", "Bill the Intern" ],
   "license": "MIT",
