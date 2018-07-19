@@ -15,7 +15,7 @@ How to start your participation in [Visual Doom AI Competition 2018 - Multiplaye
 * [TL;DR Creating a submission](#create_sub_tldr)  
 * [Creating a submission](#create_sub)
 
-![vizdoom_deathmatch](http://www.cs.put.poznan.pl/mkempka/misc/vizdoom_gifs/vizdoom_deathmatch.gif)
+![vizdoom_deathmatch](https://user-images.githubusercontent.com/15749650/42956476-5840d488-8b80-11e8-9fce-fa8cab020791.gif)
 
 ### <a name="local_build"></a> Local build
 
