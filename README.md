@@ -3,7 +3,7 @@
 
 [![gitter-badge](https://badges.gitter.im/crowdAI/vizdoom2018.png)](https://gitter.im/crowdAI/vizdoom2018)
 
-
+![vizdoom_deathmatch](https://user-images.githubusercontent.com/15749650/42998963-59b3327e-8c1c-11e8-863c-f6b940173692.gif)
 
 How to start your participation in [Visual Doom AI Competition 2018 - Multiplayer Track (2)](https://www.crowdai.org/challenges/visual-doom-ai-competition-2018-multiplayer-track-2)!
 
@@ -14,8 +14,6 @@ How to start your participation in [Visual Doom AI Competition 2018 - Multiplaye
   * [Running the agent](#run_agent)
 * [TL;DR Creating a submission](#create_sub_tldr)  
 * [Creating a submission](#create_sub)
-
-![vizdoom_deathmatch](https://user-images.githubusercontent.com/15749650/42956476-5840d488-8b80-11e8-9fce-fa8cab020791.gif)
 
 ### <a name="local_build"></a> Local build
 
@@ -151,7 +149,7 @@ as a new issue (though it's not necessarily an issue) 😉.
 
 <img width="400" src="https://user-images.githubusercontent.com/15749650/42951785-49780e5c-8b77-11e8-9c95-e045cfef1bc7.PNG">
 
-A video of the game will also be generated and available from the [leaderboard](https://www.crowdai.org/challenges/visual-doom-ai-competition-2018-multiplayer-track-2/leaderboards). How cool is that? ![DOOMGuy](https://static-cdn.jtvnw.net/emoticons/v1/54089/1.0)
+A video of the game will also be generated and available from the [leaderboard](https://www.crowdai.org/challenges/visual-doom-ai-competition-2018-multiplayer-track-2/leaderboards). How cool is that? :godmode:
 
 
 ### <a name="faq"></a> FAQ
