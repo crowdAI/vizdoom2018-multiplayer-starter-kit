@@ -58,7 +58,7 @@ docker run \
   --net=host \
   --env="DISPLAY" \
   -it spmohanty/vizdoom2018_host_image \
-  /home/crowdai/run.sh -b 6 -p 1
+  /home/crowdai/run.sh -b 6 -p 1 --multiplayer
 ```
 
 #### <a name="run_agent"></a>  Run Agent Locally
